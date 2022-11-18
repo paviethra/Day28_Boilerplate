@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+ body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+}
+
+.app {
+  height: 100vh;
+  background-color: #bcbcbc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.card {
+  background: whitesmoke;
+  width: 45%;
+  height: 30%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 25px;
+  padding: 3%;
+  box-shadow: 10px 10px;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  height: 582px;
+}
+/* Style the butto with it's hover property */
+
+
+  
+/* Add the Keyframe for rotate and strom and add media query for the screen  */
+ 
